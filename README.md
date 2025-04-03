@@ -3,3 +3,6 @@ Then uses CFOP algorithm to solve the cube, showing each step as a 3D animation 
 
 
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/14c652ae-4440-48bc-8c4c-d262adad335c" />
+
+[View the PDF document](Webcam_based_RubiksCubeSolver.pdf)
+
